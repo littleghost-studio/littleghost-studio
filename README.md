@@ -1,6 +1,4 @@
-# hi i am chud
-
-i like programming and hacking and lifting big weights. i freakin love honey bunches of oats, vanilla ice cream, and cheeseburgers. i listen to music for a lot of hours every day. i code in rust javascript python and sometimes c.
+# i like programming and hacking and lifting big weights. i freakin love honey bunches of oats, vanilla ice cream, and cheeseburgers. i listen to music for a lot of hours every day. i code in rust javascript python and sometimes c.
 
 ---
 
