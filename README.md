@@ -1,4 +1,4 @@
-i like programming and hacking and lifting big weights. i freakin love honey bunches of oats, vanilla ice cream, and cheeseburgers. i listen to music for a lot of hours every day. i code in rust javascript python and sometimes c.
+i like programming and hacking and lifting big weights. i freakin love honey bunches of oats and cheeseburgers. Creed is an S tier band so yeah. i code in rust javascript python and sometimes c.
 ---
 
 <a href="https://tryhackme.com/p/Littleghost">
