@@ -40,7 +40,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 > I am working on a custom (closed-source for now) formally verified WiFi router OS/Firmware from scratch called Sola that has a sibling project called Blink for management. 
 
 **Cybersecurity**
-> Studying multi-stage exploit chains and pivoting techniques, along with a tiny bit of malware development. 
+> Studying multi-surface exploitation and pivoting, along with a tiny bit of malware development. 
 
 ---
 
