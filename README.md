@@ -16,7 +16,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 <br>
 🎖️ <strong>USN CCT2019</strong> | Completed the USN challenge. 
 <br>
-🛠️ <strong>Custom Software</strong> | Developed some custom solutions for the USAF Reserves and NSTC that are actually in use on a small level. 
+🛠️ <strong>Custom Software</strong> | Developed some small-level custom solutions for a USAF Reserves wing and NSTC that are actually in use on a small level. 
 </p>
 
 ---
