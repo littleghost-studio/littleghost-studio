@@ -34,10 +34,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 ### Active Research & Development
 
 **Monela Linux Distribution**
-> A work in progress research project involving a dual kernel operating system. It will be made up of the Linux 7 kernel (that's coming soon) and the lightweight Monela kernel written in Rust that adds new special features. 
-
-**Networking and Low Level Dev**
-> I am working on a custom (closed-source for now) formally verified WiFi router OS/Firmware from scratch called Sola that has a sibling project called Blink for management. 
+> A work in progress research project involving a "dual" kernel operating system. It will be made up of the Linux 7 kernel (that's coming soon) and the lightweight Monela hypervisor/mini-kernel thingy written in Rust that adds new special features (hopefully). 
 
 **Cybersecurity**
 > Studying multi-surface exploitation and pivoting, along with a tiny bit of malware development. 
