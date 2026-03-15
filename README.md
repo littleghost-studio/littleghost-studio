@@ -9,7 +9,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 <p align="left">
 <a href="https://tryhackme.com/p/Littleghost">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tryhackme.webp" width="35" align="center" /> 
-<strong>Top 1% Worldwide on TryHackMe</strong> (Top 200 All-Time in the United States)
+<strong>Top 1% Worldwide on TryHackMe</strong> (4th Place All Time Nationally)
 </a>
 <br><br>
 🥇 <strong>CyberPatriot Platinum League</strong> | State Champion Team Captain
