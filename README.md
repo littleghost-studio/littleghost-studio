@@ -34,7 +34,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 ### Active Research & Development
 
 **Monela Linux Distribution**
-> A work in progress research project involving a "dual" kernel operating system. It will be made up of the Linux 7 kernel (that's coming soon) and the lightweight Monela hypervisor/mini-kernel thingy written in Rust that adds new special features (hopefully). 
+> A work in progress research project of operating systems. This project was inspired by my own study of: Barrelfish, Singularity, RedoxOS, and sel4. 
 
 **Cybersecurity**
 > Studying multi-surface exploitation and pivoting, along with a tiny bit of malware development. 
