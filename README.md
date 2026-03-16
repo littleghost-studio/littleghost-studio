@@ -66,7 +66,6 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="a21" width="40" height="40" />
   <img src="https://img.icons8.com/color/512/nmap.png" alt="a22" width="40" height="40" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/azure-active-directory-logo-png-transparent.png" alt="a23" width="40" height="40" />
-  <img src="" alt="a24" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/2560px-Red_Hat_logo.svg.png" alt="a25" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="a26" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/500px-Linux_Mint_logo_without_wordmark.svg.png" alt="a27" width="40" height="40" />
