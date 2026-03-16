@@ -49,7 +49,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
   <img src="https://nodejs.org/static/logos/nodejsHex.svg" alt="a4" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/330px-Electron_Software_Framework_Logo.svg.png" alt="a5" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="a6" width="40" height="40" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/tauri-up5gt0p129qhc9bs361d.png/tauri-bhqk0k69gjt6oafe1ru30w.png?_a=DATAiZAAZAA0" alt="a7" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/54536011?v=4" alt="a7" width="40" height="40" />
   <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEuGYiV3SRwHg/company-logo_200_200/company-logo_200_200/0/1694422839721/slint_ui_logo?e=2147483647&v=beta&t=oPlk1Uq-jq_vyxqw2C9FXxBglP2Zn5ScWnD8MU5_HZo" alt="a8" width="40" height="40" />
   <img src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba" alt="a9" width="40" height="40" />
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2025/11/visual-studio-26-icon.webp" alt="a10" width="40" height="40" />
