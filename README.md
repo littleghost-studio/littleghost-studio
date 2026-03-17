@@ -70,6 +70,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
     <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="a26" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/500px-Linux_Mint_logo_without_wordmark.svg.png" alt="a27" width="40" height="40" />
     <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxotAlMOBTgTzaUNb4CJPm.pCbWPmejMCLPhr_pf.nOyyr8dHeW1hpIux9CpzaPMbKcl1RLVN1wlOzmr1EgtXJZU-&format=source" alt="a28" width="40" height="40" />
+    <img src="https://github.com/littleghost-studio/host/blob/main/image-removebg-preview.png" alt="a29" width="40" height="40" />
   
 </p>
 
