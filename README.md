@@ -12,11 +12,11 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 <strong>Top 1% Worldwide on TryHackMe</strong> (1st Place All Time Nationally)
 </a>
 <br><br>
-🥇 <strong>CyberPatriot Platinum League</strong> | State Champion Team Captain
+ <strong>CyberPatriot Platinum League</strong> | State Champion Team Captain
 <br>
-🎖️ <strong>USN CCT2019</strong> | Completed the USN challenge. 
+ <strong>USN CCT2019</strong> | Completed the USN challenge. 
 <br>
-💻 <strong>Custom Software</strong> | Developed some small-level custom code for a USAF Reserves wing and NSTC that are actually in use on a small level. 
+ <strong>Custom Software</strong> | Developed some small-level custom code for a USAF Reserves wing and NSTC that are actually in use on a small level. 
 </p>
 
 ---
