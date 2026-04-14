@@ -34,7 +34,7 @@ honey bunches of oats are kind of the best invention ever made. also, i never wo
 ### Active Research & Development
 
 **Monela Linux Distribution**
-> A work in progress research project of operating systems. This project was inspired by my own study of: OpenWRT, Barrelfish, Singularity, RedoxOS, and sel4. 
+> My own distro I'm playing with.  
 
 **Cybersecurity**
 > Studying multi-surface exploitation and pivoting, along with a tiny bit of malware development. 
